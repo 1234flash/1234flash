@@ -18,7 +18,7 @@
 <br>
 <br>
 
-[![zzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=1234flash&theme=dark&show_icons=true)](https://github.com1234flash)
+[![zzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=1234flash&theme=dark&show_icons=true)](https://github.com/1234flash)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1234flash&theme=dark&layout=compact)](https://github.com/1234flash)
 
 
